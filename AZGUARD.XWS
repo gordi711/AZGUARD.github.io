@@ -1,0 +1,69 @@
+WebStyle
+Version : 1.2 (1.201) Dec 11 2001
+WixPath : C:\Program Files\Xara\Webstyle 1.2\templates/headings/perspective.wix
+WixFileName : templates/headings/perspective.wix
+Template : 1
+Text : AZGUARD
+Font : Times New Roman
+GraphicType : 2
+Bold : 1
+Italic : 1
+TextAspectRatio : 50
+DrawingWidth : 0
+DrawingHeight : 0
+PixelWidth : 252
+PixelHeight : 76
+AspectLock : 1
+ExportType : 1
+ExportQuality : 1
+ExportDither : 0
+ExportPalette : 1
+ExportBpp : 8
+TransThreshold : 254
+JPEGQuality : 60
+GIFPaletteSize : 64
+Transparent : 1
+Interlaced : 0
+ModelType : 2
+DisplayType : 1
+InputType : 0
+NumberOfColours : 3
+CurrentColourIndex : 0
+SimpleColourIndexMax : 3
+TexReplacementColour : 16711680
+TexReplacementFlag : 0
+ColProp-Value : 15132391
+ColProp-Name : BackGround
+ColProp-Question : Background color
+ColProp-WixIndex : 0
+ColProp-Value : 0
+ColProp-Name : Top
+ColProp-Question : Top text color
+ColProp-WixIndex : 5
+ColProp-Value : 16777215
+ColProp-Name : Bottom
+ColProp-Question : Bottom text color
+ColProp-WixIndex : 6
+NumberOfTextures : 1
+CurrentTextureIndex : 0
+TextureProp-FileName : 
+TextureProp-Name : 
+TextureProp-Question : Background
+TextureProp-WixIndex : 0
+ShadowDarkness01 : 0.65
+ShadowBlurrinessPixels : 18
+ShadowPositionXPixels : 0
+ShadowPositionYPixels : 0
+ShadowPositionXScale : 0
+ShadowPositionYScale : 0
+ShadowTiltDegrees : 45
+ShadowScale01 : 0.6
+ShadowType : 0
+ShadowOn : 1
+ShadowColour : 0
+ColourButtonState : 0
+TextButtonState : 0
+HaveGotConstrainedObject : 0
+CurrentConstrainedWidth : 0
+BrowseDirectory0 :c:\program files\xara\webstyle 1.2\mydocs\themes\
+BrowseDirectory1 :c:\program files\xara\webstyle 1.2\mydocs\headings\
